@@ -16,13 +16,13 @@ An offline-first web app for teachers with an interactive seating chart, attenda
 * **Source Code:** [github.com/josh12343467/classroom-studio](https://github.com/josh12343467/classroom-studio)
 * **Tech:** Next.js · React · TypeScript · Supabase (Auth + Postgres with Row Level Security) · Zustand · Tailwind CSS · Vitest
 
-### 2. ResumeCraft: Full-Stack Resume Builder
+### 2. Personal Portfolio Website
 
-A web application where users can register, log in, save their resume data, and generate a professional PDF on demand.
+My personal site showcasing my projects and background.
 
-* **Front-End Code (React):** [github.com/josh12343467/resumecraft_frontend](https://github.com/josh12343467/resumecraft_frontend)
-
-<!-- Add the live demo and back-end links here once they are back online -->
+* **Live Site:** [jb-portfolio-weld.vercel.app](https://jb-portfolio-weld.vercel.app)
+* **Source Code:** [github.com/josh12343467/jb-portfolio](https://github.com/josh12343467/jb-portfolio)
+* **Tech:** TypeScript
 
 ---
 
@@ -30,5 +30,5 @@ A web application where users can register, log in, save their resume data, and 
 
 **Languages:** TypeScript · JavaScript · SQL
 **Front-End:** React · Next.js · Tailwind CSS
-**Back-End:** Node.js · Supabase · PostgreSQL
+**Back-End:** Supabase · PostgreSQL
 **Tools:** Git & GitHub · Vercel · Vitest
